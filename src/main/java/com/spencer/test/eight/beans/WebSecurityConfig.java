@@ -1,4 +1,4 @@
-package com.spencer.test.eight;
+package com.spencer.test.eight.beans;
 
 import java.util.Arrays;
 
